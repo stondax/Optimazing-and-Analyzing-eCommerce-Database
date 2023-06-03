@@ -1,5 +1,5 @@
 # Optimazing-and-Analyzing-eCommerce-Database
-My work showcases the analysis and optimazation of marketing channels, measuring and testing website conversion performance, and using data to understand the impact of new product launches.
+My work showcases the analysis and optimization of marketing channels, measuring and testing website conversion performance, and using data to understand the impact of new product launches.
 
 The provided codes are SQL queries used to analyze and measure conversion funnels and bounce rates on a website. Here's a breakdown of each code:
 
